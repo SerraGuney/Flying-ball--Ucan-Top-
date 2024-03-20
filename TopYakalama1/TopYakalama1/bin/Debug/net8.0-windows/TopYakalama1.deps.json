@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TopYakalama1/1.0.0": {
+        "runtime": {
+          "TopYakalama1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TopYakalama1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
